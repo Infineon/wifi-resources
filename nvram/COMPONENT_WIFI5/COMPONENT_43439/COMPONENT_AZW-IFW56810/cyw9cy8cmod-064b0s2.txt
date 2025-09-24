@@ -39,5 +39,5 @@ papdendidx=61
 wl0id=0x431b
 deadman_to=0xffffffff
 muxenab=0x11
-spurconfig=0x3
+spurconfig=0x3 
 rssicorrnorm=1
