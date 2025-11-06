@@ -1,4 +1,4 @@
-# Wi-Fi Host Driver Resources v2.0.4 
+# Wi-Fi Host Driver Resources v3.0.0
 
 Please refer to the [README File](./README.md) and it needs to build with wifi-host-driver on MTB.
 
