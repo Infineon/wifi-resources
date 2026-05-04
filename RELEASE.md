@@ -1,4 +1,4 @@
-# Wi-Fi Host Driver Resources v3.0.5 
+# Wi-Fi Host Driver Resources v2.0.5 
 
 Please refer to the [README File](./README.md) and it needs to build with wifi-host-driver on MTB.
 
@@ -37,6 +37,7 @@ Please refer to the [README File](./README.md) and it needs to build with wifi-h
 ### COMPONENT_43022
 * COMPONENT_CYW43022CUB
 * COMPONENT_CYW943022WLREF
+* COMPONENT_MURATA-2GF
 
 ### COMPONENT_43438
 * COMPONENT_AW-CU427-P 
