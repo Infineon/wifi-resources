@@ -222,6 +222,7 @@ wb_bbmult_lut1=25,40
 wb_PapdLutSel_idx_2g5g=53,52
 ed_thresh2g=-65
 ed_thresh5g=-68
+# energy detect threshold for EU
 eu_edthresh2g=-65
 eu_edthresh5g=-68
 btldopu=0

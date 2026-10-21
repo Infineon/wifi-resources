@@ -1,11 +1,11 @@
 NVRAMRev=$Rev: 5ff59ceeab8d8122f8d3aee1d436f44d339f959d $
 sromrev=11
-boardrev=0x1401
+boardrev=0x1500
 boardtype=0x08aa
 boardflags=0x00400001
 boardflags2=0x00800000
 boardflags3=0x40000100
-macaddr=00:A0:50:1d:42:ec
+macaddr=00:90:4c:30:ee:02
 ccode=0
 regrev=0
 vendid=0x12be
